@@ -4,11 +4,11 @@ Welcome to the repository for the Data Generation and Analysis for the populatio
 
 ## Project Overview
 
-This project is designed to consolidate the concepts learned in my MA in Data Analytics by generating and analyzing data. The Excel workbook consists of six sheets, each dedicated to different aspects of data manipulation and analysis. The dataset simulates the ages of a population and involves statistical operations including sampling, correlation analysis, and linear regression.
+This project is designed to consolidate the concepts learned in the course of inferential statistics with Excel that I learned in my MA in Data Analytics by generating and analyzing data. The Excel workbook consists of 6 sheets, each dedicated to different aspects of data manipulation and analysis. The dataset simulates the ages of a population and involves statistical operations including sampling, correlation analysis, and linear regression.
 
 ### Dataset Description
 
-The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional population of Luggnagg. The data is generated using a normal distribution with specified parameters.
+The dataset simulates the ages of 250 individuals in a fictional population of Luggnagg. The data is generated using a normal distribution with specified parameters.
 
 **Dataset Structure:**
 - **Number of Rows:** 250
@@ -19,7 +19,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
 
 ## Excel Workbook Structure
 
-### 1. `Parameters`
+### Sheet 1. `Parameters`
 
 - **Description:** This sheet contains the parameters used for generating the age data.
 - **Contents:**
@@ -31,7 +31,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
-### 2. `Data`
+### Sheet 2. `Data`
 
 - **Description:** This sheet contains the generated age data and group assignments.
 - **Contents:**
@@ -42,7 +42,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
-### 3. `Sample`
+### Sheet 3. `Sample`
 
 - **Description:** This sheet includes the generated age data, assigned groups, and a filtered sample based on the selected group.
 - **Contents:**
@@ -54,7 +54,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
-### 4. `Statistical Insight`
+### Sheet 4. `Statistical Insight`
 
 - **Description:** This sheet provides statistical insights and calculations based on the sample data.
 - **Contents:**
@@ -70,7 +70,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
-### 5. `Uncorrelated Variables`
+### Sheet 5. `Uncorrelated Variables`
 
 - **Description:** This sheet explores the correlation between age and the number of cats, and between age and the age of a partner.
 - **Contents:**
@@ -86,7 +86,7 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
-### 6. `Linear Regression`
+### Sheet 6. `Linear Regression`
 
 - **Description:** This sheet contains a linear regression analysis between age and rank.
 - **Contents:**
@@ -99,21 +99,5 @@ The dataset, `Data.xlsx`, simulates the ages of 250 individuals in a fictional p
   - **Header Font:** Comics Sans MS, 12pt, blue color.
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
-
-## How to Use the Excel Workbook
-
-1) **Open the Excel File:** Download `Data.xlsx` from the repository.
-2) **Review the Parameters:** Check the `Parameters` sheet for the values used in the data generation.
-3) **Explore the Data:** Analyze the `Data` sheet to view the generated age data and group assignments.
-4) **Analyze the Sample:** Use the `Sample` sheet to review the subset of data and analyze the chosen group.
-5. **Perform Statistical Analysis:** Review the `Statistical Insight` sheet for statistical calculations and interpretations.
-6. **Examine Correlations:** Check the `Uncorrelated Variables` sheet for the correlation analysis and explanations.
-7. **Review the Linear Regression:** Use the `Linear Regression` sheet to view the regression analysis and the related scatterplot.
-
-## Results and Analysis
-
-- **Statistical Insights:** The `Statistical Insight` sheet provides a comprehensive summary of the sample data's statistics including standard deviation, mean, confidence interval, and p-value.
-- **Correlation Analysis:** The `Uncorrelated Variables` sheet demonstrates how the chosen variables relate to one another, and the actual versus desired correlation values are explained.
-- **Linear Regression:** The `Linear Regression` sheet contains a scatterplot and regression results, providing insights into the relationship between age and rank.
 
 
