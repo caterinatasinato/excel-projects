@@ -100,4 +100,21 @@ The dataset simulates the ages of 250 individuals in a fictional population of L
   - **Borders:** Double border around header; single border around other cells.
   - **Cell Background:** White with no borders or lines outside the table.
 
+## How to Use the Excel Workbook
+
+1. **Review the Parameters:** Check the `Parameters` sheet for the values used in the data generation.
+2. **Explore the Data:** Analyze the `Data` sheet to view the generated age data and group assignments.
+3. **Analyze the Sample:** Use the `Sample` sheet to review the subset of data and analyze the chosen group.
+4. **Perform Statistical Analysis:** Review the `Statistical Insight` sheet for statistical calculations and interpretations.
+5. **Examine Correlations:** Check the `Uncorrelated Variables` sheet for the correlation analysis and explanations.
+6. **Review the Linear Regression:** Use the `Linear Regression` sheet to view the regression analysis and the related scatterplot.
+
+## Results and Analysis
+
+- **Statistical Insights:** The `Statistical Insight` sheet provides a comprehensive summary of the sample data's statistics including standard deviation, mean, confidence interval, and p-value.
+- **Correlation Analysis:** The `Uncorrelated Variables` sheet demonstrates how the chosen variables relate to one another, and the actual versus desired correlation values are explained.
+- **Linear Regression:** The `Linear Regression` sheet contains a scatterplot and regression results, providing insights into the relationship between age and rank.
+  
+
+
 
