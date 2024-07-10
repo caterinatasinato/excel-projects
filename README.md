@@ -22,7 +22,7 @@ In this project, I worked with a dataset of user complaints submitted to financi
 - Excel spreadsheet with detailed analysis.
 - Documentation on the methodologies used.
 
-### 2. *** Trades on Financial Operations***
+### 2. **Trades on Financial Operations**
 
 In this project, I analyzed financial trading data to explore trading operations and perform various financial analyses. The main objectives were to:
 
