@@ -1,6 +1,6 @@
-# Trading Financial Operations
+# Trade of Financial Operations
 
-Welcome to the "Trading Financial Operations" project. This project involves modifying a provided spreadsheet to gain a deeper understanding of trading data and perform various financial analyses. Below you will find a comprehensive overview of the project, instructions for using the Excel file, and explanations of the tasks and analyses conducted.
+Welcome to the "Trade of Financial Operations" project. This project involves modifying a provided spreadsheet to gain a deeper understanding of trading data and perform various financial analyses. Below you will find a comprehensive overview of the project, instructions for using the Excel file, and explanations of the tasks and analyses conducted.
 
 ## Project Overview
 
