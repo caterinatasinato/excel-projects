@@ -1,4 +1,4 @@
-# My Excel projects
+# Excel projects
 
 Welcome to my repository of Excel projects!  
 This repository contains some projects and analyses that I have worked on as a trainee in **Data Analytics** at **ProfessionAI**.
