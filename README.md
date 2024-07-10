@@ -28,14 +28,13 @@ In this project, I analyzed financial trading data to explore trading operations
 
 - **Format and Analyze Trading Data:** Perform calculations, create visualizations, and analyze trading performance.
 - **Summarize Trade Activities:** Evaluate trade metrics and calculate tax obligations for different stock exchanges.
-- **Calculate and Visualize Profit Insights:** Provide detailed analyses of trade profits and durations.
+- **Calculate Profit Insights:** Provide detailed analyses of trade profits and durations.
 - **Distribute Trade Data:** Analyze the distribution of trades across regions and calculate specific probabilities.
 
 
 **Key Features:**
 - Date Formatting and Profit Calculation: Reformat dates and calculate profits for each trade.
 - Pivot Table Creation for Trade Activities and Tax Calculations: Summarize trade activities and determine tax obligations for various stock exchanges.
-- Bar Chart Visualizations and Trade Duration Analysis:** Create charts to visualize trade durations and analyze the results.
 - Distribution Analysis and Probability Calculations: Analyze the distribution of trades across regions and calculate specific probabilities.
 
 **Folder Contents:**
