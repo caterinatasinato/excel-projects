@@ -5,7 +5,7 @@ This repository showcases various projects and analyses I worked on as a trainee
 
 ## Projects Overview
 
-### 1. [Customer Complaints Analysis](./Customer_Complaints_Analysis) 🗂️
+### 1. Customer Complaints Analysis](./Customer_Complaints_Analysis 🗂️
 
 In this project, I worked with a dataset of user complaints submitted to financial management companies. The main objectives were to:
 
@@ -26,7 +26,7 @@ In this project, I worked with a dataset of user complaints submitted to financi
 
 ---
 
-### 2. [Trade of Financial Operations](./Trade_of_Financial_Operations) 💹
+### 2. Trade of Financial Operations](./Trade_of_Financial_Operations 💹
 
 In this project, I analyzed financial trading data to explore trading operations and perform various financial analyses. The main objectives were to:
 
@@ -49,7 +49,7 @@ In this project, I analyzed financial trading data to explore trading operations
 
 ---
 
-### 3. [Data Generation and Analysis for the Population of Luggnagg](./Data_Generation_Analysis_Luggnagg) 📊
+### 3. Data Generation and Analysis for the Luggnagg Population 📊
 
 This project involves creating a dataset, performing data manipulations, and conducting statistical analyses using Excel. The goal was to consolidate concepts from inferential statistics by generating and analyzing data for a fictional population.
 
