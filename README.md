@@ -1,6 +1,6 @@
 # 🧩 My Excel Projects
 
-Welcome to my repository of Excel projects! 🌟  
+Welcome to my repository of Excel projects! ✨
 This repository showcases various projects and analyses I worked on as a trainee in **Data Analytics** at **ProfessionAI**. Each folder represents a separate project and includes detailed documentation, examples, and insights. Feel free to explore the projects below to see the approaches I used and the results I achieved. 🦋
 
 ## Projects Overview
