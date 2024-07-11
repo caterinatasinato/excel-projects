@@ -11,13 +11,13 @@ This repository showcases various projects and analyses I worked on as a trainee
 In this project, I worked with a dataset of user complaints submitted to financial management companies. The main objectives were to:
 
 - **Transform and Clean Data:** Reformat and organize the dataset to meet specific requirements.
-- **Analyze Complaint Data:** Create visualizations and perform calculations to understand complaint trends.
+- **Analyze Complaint Data:** Perform calculations to understand complaint trends.
 - **Generate Reports:** Showcase the geographical distribution of complaints and provide statistical insights.
 
 **Key Features:**
 
 - **Data Cleaning and Reformatting:** Transform raw data to meet specific formatting and structuring requirements.
-- **Analysis of Complaint Trends and Responses:** Create visualizations and perform calculations to uncover trends and evaluate responses.
+- **Analysis of Complaint Trends and Responses:**  Perform calculations to uncover trends and evaluate responses.
 - **Geographical Insights and Statistical Evaluations:** Generate reports on the geographical distribution of complaints and perform statistical evaluations of the data.
 
 **Folder Contents:**
@@ -31,7 +31,7 @@ In this project, I worked with a dataset of user complaints submitted to financi
 
 In this project, I analyzed financial trading data to explore trading operations and perform various financial analyses. The main objectives were to:
 
-- **Format and Analyze Trading Data:** Perform calculations, create visualizations, and analyze trading performance.
+- **Format and Analyze Trading Data:** Perform calculations, and analyze trading performance.
 - **Summarize Trade Activities:** Evaluate trade metrics and calculate tax obligations for different stock exchanges.
 - **Calculate and Visualize Profit Insights:** Provide detailed analyses of trade profits and durations.
 - **Distribute Trade Data:** Analyze the distribution of trades across regions and calculate specific probabilities.
