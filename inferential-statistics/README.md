@@ -1,4 +1,4 @@
-# Data Generation and Analysis for Luggnagg Population
+# Data Generation for Luggnagg Population
 
 Welcome to the repository for the Data Generation and Analysis for the population of Luggnagg. This project involves creating a dataset, performing data manipulations, and conducting statistical analyses using Excel. Below, you will find a detailed overview of the project, instructions on how to use the provided Excel file, and explanations of the analysis conducted.
 
